@@ -1,2 +1,4 @@
 Hi i am rajesh
-i am learning git 
+
+i have added one online
+i removed one line
